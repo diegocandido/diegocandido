@@ -1,13 +1,9 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
-
 <h1 align="left">Hi, I'm Diego Candido</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegocandido&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
-
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 🔥 Web Developer & Software Development Coordinator
 
 - 👨‍💻 All of my projects are available at [DiegoCandido.com](https://diegocandido.com)
 
@@ -50,7 +46,7 @@
 <a href="https://twitter.com/soudiegocandido" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-diegocandido-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/soudiegocandido" target="_blank">
+<a href="https://linkedin.com/in/eudiegocandido" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-diegocandido-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://youtube.com/diegocandido" target="_blank">
