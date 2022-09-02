@@ -43,10 +43,10 @@
 ## &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/soudiegocandido" target="_blank">
+<a href="https://twitter.com/diegocandidopro" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-diegocandido-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/eudiegocandido" target="_blank">
+<a href="https://linkedin.com/in/diegocandidopro" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-diegocandido-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://youtube.com/diegocandido" target="_blank">
