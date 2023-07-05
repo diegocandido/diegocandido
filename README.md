@@ -53,6 +53,5 @@
  <img align="center" src="https://img.shields.io/badge/-diegocandido-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=diegocandidopro&layout=wide&show_reply=off&show_retweet=off" />
 
 
