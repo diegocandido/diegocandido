@@ -1,9 +1,9 @@
 
-<h1 align="left">Olá, eu sou Diego Candido</h1>
+<h1 align="left">Diego Candido</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegocandido&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Product Manager | Data Science | Scrum Master
+- 🔥 Product Manager | Data Science
 
 - 👨‍💻 Mestrando em Ciência da Computação focado em Data Science
 
