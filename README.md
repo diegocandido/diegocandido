@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegocandido&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Product Manager | Data Science
+- 🔥 Tech Lead | Data Science
 
 - 👨‍💻 Mestrando em Ciência da Computação focado em Data Science
 
