@@ -3,7 +3,7 @@
 
 <h1 align="left">Diego Candido</h1>
 
-Sou um apaixonado Cientista e Analista de Dados, dedicado a desvendar os segredos ocultos nos dados para revelar insights valiosos que impulsionam a tomada de decisões estratégicas. Minha jornada é impulsionada pela curiosidade incessante e pela busca incansável por soluções inovadoras por meio da análise de dados.
+Sou um apaixonado por dados, dedicado a desvendar os segredos ocultos nos dados para revelar insights valiosos que impulsionam a tomada de decisões estratégicas. Minha jornada é impulsionada pela curiosidade incessante e pela busca incansável por soluções inovadoras por meio da análise de dados.
 
 Comprometido com uma abordagem data-driven em todos os aspectos, desde o desenvolvimento de estratégias até a execução de projetos, estou pronto para mergulhar em qualquer desafio que demande expertise analítica orientada por dados.
 
