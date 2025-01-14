@@ -3,14 +3,14 @@
 
 <h1 align="left">Diego Candido</h1>
 
-Sou um apaixonado por dados, dedicado a desvendar os segredos ocultos nos dados para revelar insights valiosos que impulsionam a tomada de decisões estratégicas. Minha jornada é impulsionada pela curiosidade incessante e pela busca incansável por soluções inovadoras por meio da análise de dados.
+Professor de tecnologia com uma visão voltada para o impacto social, acredita no poder do ensino tecnológico para transformar realidades e reduzir desigualdades. Mestre em Ciência da Computação pela PUCRS, com foco em Machine Learning, e pós-graduado em Educação Digital pelo IFSUL, apresento a união de uma sólida formação acadêmica com a paixão por ensino e inovação.
 
-Comprometido com uma abordagem data-driven em todos os aspectos, desde o desenvolvimento de estratégias até a execução de projetos, estou pronto para mergulhar em qualquer desafio que demande expertise analítica orientada por dados.
+A minha experiência em gestão de projetos e o uso da ciência de dados no desenvolvimento de software, consolidei uma especialização técnica e compromisso social, sendo um agente de transformação para um mundo mais igualitário. Meu portfólio abrange desenvolvimento utilizando tecnologias como JS, Python e SQL.
 
 
 - 🔥 Analista de Dados | Python | Professor | Data Driven | SQL | Cientista de dados | Engenheiro de Dados
 
-- 👨‍💻 Mestrando em Ciência da Computação focado em Data Science
+- 👨‍💻 Mestre em Ciência da Computação focado em Data Science
 
 - 🖥️ Falo sobre **Inteligência Artificial** no YouTube
 
